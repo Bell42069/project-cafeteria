@@ -119,6 +119,14 @@ section {
     margin-bottom: 4rem;
 }
 
+.tittle1 {
+    font-size: 5rem;
+    color: var(--main-color);
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 4rem;
+}
+
 .content span {
     color: #f7a4ec
 }
