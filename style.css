@@ -119,14 +119,6 @@ section {
     margin-bottom: 4rem;
 }
 
-.tittle1 {
-    font-size: 5rem;
-    color: var(--main-color);
-    text-align: center;
-    text-transform: uppercase;
-    margin-bottom: 4rem;
-}
-
 .content span {
     color: #f7a4ec
 }
@@ -210,6 +202,7 @@ section {
     font-size: 1.5rem;
     text-decoration: line-through;
     font-weight: lighter;
+    color: rgb(247, 0, 255);
 }
 
 .menu .box-container .box:hover {
